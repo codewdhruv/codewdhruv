@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="" width="70px" height="80px">, I'm Dhrubajyoti Chakraborty
+<h1 align="center">Hi <img src="https://github.com/dhrubajyoti89/dhrubajyoti89/blob/main/Readme_images/daftpunktocat-thomas.gif" width="70px" height="80px">, I'm Dhrubajyoti Chakraborty
 
 <a href="https://www.linkedin.com/in/dhrubajyoti-chakraborty-62588a186/">
   <img align="left" alt="Dhrubajyoti's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

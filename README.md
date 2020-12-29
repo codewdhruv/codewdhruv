@@ -30,7 +30,7 @@ I am currently an CS Engineering student of Biju Patanaik University Of Technolo
 - ⚡️ Fun-Fact: I also write blogs on technical stuff [Check here](https://medium.com/@dhrubajyoti89)
 - 📫 How to reach me: codewdhruv@gmail.com;
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://github.com/dhrubajyoti89/dhrubajyoti89/blob/main/Readme_images/daftpunktocat-thomas.gif' width='200"'>
 <p align="left">
    
 **Languages and Tools:**  

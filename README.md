@@ -1,15 +1,22 @@
-<h1 align="center">Hi <img src="https://github.com/dhrubajyoti89/dhrubajyoti89/blob/main/Readme_images/daftpunktocat-thomas.gif" width="70px" height="80px">, I'm Dhrubajyoti Chakraborty
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dhrubajyoti!](https://dhrubajyoti89.github.io) 
 
 <a href="https://www.linkedin.com/in/dhrubajyoti-chakraborty-62588a186/">
-  <img align="left" alt="Dhrubajyoti's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/dhruvvjyoti">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:codewdhruv@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCYMvclP9NfiZiOzs0XGBdvw">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="http://medium.com/@dhrubajyoti89">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<a href="https://www.instagram.com/dhruvvjyoti">
-  <img align="left" alt="Dhrubajyoti's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://medium.com/@dhrubajyoti89">
-  <img align="left" alt="Dhrubajyoti's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+<br />
 
 <br />
 <br />

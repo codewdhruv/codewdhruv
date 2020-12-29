@@ -54,9 +54,6 @@ I am currently an CS Engineering student of Biju Patanaik University Of Technolo
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </p>
   
-  <br />
-  <br />
-  
   Go Hustle! 🚀
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhrubajyoti89.dhrubajyoti89)

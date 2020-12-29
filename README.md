@@ -50,12 +50,13 @@ I am currently an CS Engineering student of Biju Patanaik University Of Technolo
 
 
 
-![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=dhrubajyoti89&show_icons=true&hide_border=true)
+![Dhrubajyoti's Github Stats](https://github-readme-stats.vercel.app/api?username=dhrubajyoti89&show_icons=true&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </p>
   
   <br />
   <br />
-  From ❤️ [Dhrubajyoti Chakraborty](https://github.com/dhrubajyoti89) </br>
-  Happy Coding! 😊
+  
+  Go Hustle! 🚀
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhrubajyoti89.dhrubajyoti89)

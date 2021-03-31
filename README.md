@@ -57,8 +57,6 @@ I am currently an CS Engineering student of Biju Patanaik University Of Technolo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrubajyoti89&show_icons=true&locale=en&layout=compact" alt="dhrubajyoti89" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrubajyoti89&show_icons=true&locale=en" alt="dhrubajyoti89" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubajyoti89&" alt="dhrubajyoti89" /></p>
   
   Go Hustle! 🚀

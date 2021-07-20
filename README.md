@@ -24,7 +24,7 @@
 ### About Me 🚀
 I'm Dhrubajyoti Chakraborty, just another one in million trying to understand 01100001 better than any thing 👨‍💻. </br>
 I am currently an CS Engineering student of Biju Patanaik University Of Technology and a AI Developer building scalable applications for various devices with some awesome people. </br>
-- 👨🏽‍💻 I’m currently working as a Open Source Lead at 🙍🏽‍♂️ Learn For Cause, Senior Developer at CACLD💻, DevOps Engineer at Tech-Analogy, Managing Direc†or at CodXCrypt, Mentor at Cross Winter Of Code
+- 👨🏽‍💻 I’m currently working as a Open Source Software Development Head at 🙍🏽‍♂️ Learn For Cause, Research Intern at SSERD-Bangalore, Ex-Senior Developer at CACLD💻, DevOps Engineer at Tech-Analogy, Managing Direc†or at CodXCrypt, Mentor at Cross Winter Of Code
 - 🌱 I’m an Open Source enthusiast with focus on Research and Development; 
 - 💬 Ask me about anything, I am happy to help and contribute to the community growth;
 - ⚡️ Fun-Fact: I also write blogs on technical stuff [Check here](https://medium.com/@dhrubajyoti89)

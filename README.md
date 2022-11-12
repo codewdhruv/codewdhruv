@@ -20,7 +20,7 @@
 
 ### About Me 🚀
 I'm Dhrubajyoti Chakraborty, just another one in million trying to understand 01100001 better than any thing 👨‍💻. </br>
-I am currently an CS Engineering student of Biju Patanaik University Of Technology and a Community Engineering Intern at Harness building scalable tech solutions for various devices with some awesome people. </br>
+I am currently a Community Engineering Intern at Harness building scalable tech solutions for various devices with some awesome people. </br>
 - 👨🏽‍💻 I’m currently working as a Community Engineer at Harness.io 🙍🏽‍♂️ ReImagining Education on Metaverse at Learn For Cause 👨‍ DevRel Community Manager at Commudle
 - 🌱 I’m an Open Source enthusiast with a love for on DevOps and Research; 
 - 💬 Ask me about anything, I am happy to help and contribute to the community growth;
